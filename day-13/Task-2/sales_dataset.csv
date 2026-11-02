@@ -1,0 +1,182 @@
+Order_ID,Date,City,Region,Category,Product,Units_Sold,Unit_Price,Discount_Pct
+ORD-1020,2026-01-21,Chennai,South,Stationery,Notebook Pack,1.0,264.0,5.0
+ORD-1043,2026-02-20,Hyderabad,South,Home,Storage Box,3.0,527.0,15.0
+ORD-1154,2026-05-29,Bengaluru,South,Stationery,Planner,1.0,416.0,20.0
+ORD-1079,2026-03-25,Pune,West,Accessories,Phone Stand,2.0,330.0,0.0
+ORD-1146,2026-05-23,Chennai,South,Stationery,Notebook Pack,5.0,243.0,0.0
+ORD-1016,2026-01-17,Kochi,South,Electronics,USB-C Hub,2.0,1761.0,20.0
+ORD-1025,2026-01-26,Mumbai,West,Accessories,Cable Organizer,1.0,213.0,10.0
+ORD-1069,2026-03-20,Hyderabad,South,Stationery,Pen Set,1.0,160.0,10.0
+ORD-1114,2026-05-01,Pune,West,Accessories,Phone Stand,1.0,365.0,10.0
+ORD-1119,2026-05-04,Bengaluru,South,Electronics,Keyboard,1.0,1586.0,10.0
+ORD-1094,2026-04-09,Kochi,South,Stationery,Desk Organizer,3.0,751.0,15.0
+ORD-1160,2026-06-02,Hyderabad,South,Accessories,Phone Stand,2.0,330.0,0.0
+ORD-1070,2026-03-21,Bengaluru,South,Home,Water Bottle,1.0,375.0,0.0
+ORD-1143,2026-05-22,Chennai,South,Accessories,Backpack,4.0,1862.0,5.0
+ORD-1046,2026-02-22,Chennai,South,Accessories,Laptop Sleeve,5.0,941.0,15.0
+ORD-1017,2026-01-18,Pune,West,Stationery,Desk Organizer,2.0,743.0,5.0
+ORD-1052,2026-03-01,Bengaluru,South,Home,Water Bottle,1.0,387.0,0.0
+ORD-1126,2026-05-08,Mumbai,West,Accessories,Laptop Sleeve,5.0,960.0,5.0
+ORD-1097,2026-04-11,Chennai,South,Electronics,Headphones,6.0,2495.0,5.0
+ORD-1057,2026-03-08,Hyderabad,South,Home,Desk Lamp,3.0,1279.0,0.0
+ORD-1098,2026-04-11,Kochi,South,Home,Office Chair,1.0,6804.0,10.0
+ORD-1121,2026-05-05,Bengaluru,South,Home,Water Bottle,3.0,398.0,0.0
+ORD-1144,2026-05-22,Bengaluru,South,Stationery,Pen Set,2.0,151.0,10.0
+ORD-1031,2026-02-03,Mumbai,West,Accessories,Backpack,2.0,1674.0,0.0
+ORD-1010,2026-01-14,Hyderabad,South,Home,Office Chair,2.0,6954.0,5.0
+ORD-1173,2026-06-17,Bengaluru,South,Home,Storage Box,1.0,469.0,10.0
+ORD-1061,2026-03-14,Mumbai,West,Electronics,Wireless Mouse,2.0,742.0,15.0
+ORD-1019,2026-01-20,Bengaluru,South,Accessories,Backpack,4.0,1690.0,0.0
+ORD-1149,2026-05-25,Kochi,South,Stationery,Planner,1.0,374.0,5.0
+ORD-1174,2026-06-20,Mumbai,West,Stationery,Pen Set,1.0,138.0,0.0
+ORD-1110,2026-04-27,Bengaluru,South,Accessories,Phone Stand,1.0,334.0,15.0
+ORD-1056,2026-03-07,Mumbai,West,Electronics,USB-C Hub,4.0,1885.0,5.0
+ORD-1141,2026-05-22,Mumbai,West,Stationery,Planner,1.0,403.0,15.0
+ORD-1127,2026-05-10,Hyderabad,South,Accessories,Laptop Sleeve,1.0,1049.0,15.0
+ORD-1067,2026-03-20,Chennai,South,Electronics,USB-C Hub,2.0,2045.0,15.0
+ORD-1030,2026-01-31,Mumbai,West,Accessories,Cable Organizer,1.0,198.0,0.0
+ORD-1118,2026-05-03,Chennai,South,Stationery,Pen Set,1.0,142.0,5.0
+ORD-1066,2026-03-17,Chennai,South,Stationery,Pen Set,4.0,138.0,10.0
+ORD-1068,2026-03-20,Mumbai,West,Home,Desk Lamp,5.0,1131.0,5.0
+ORD-1032,2026-02-04,Pune,West,Electronics,Wireless Mouse,5.0,753.0,0.0
+ORD-1013,2026-01-17,Bengaluru,South,Stationery,Planner,1.0,416.0,
+ORD-1042,2026-02-20,Bengaluru,South,Stationery,Notebook Pack,5.0,241.0,15.0
+ORD-1125,2026-05-07,Hyderabad,South,Accessories,Phone Stand,2.0,369.0,0.0
+ORD-1101,2026-04-13,Mumbai,West,Accessories,Phone Stand,2.0,334.0,15.0
+ORD-1162,2026-06-04,Hyderabad,South,Home,Desk Lamp,1.0,1205.0,20.0
+ORD-1133,2026-05-18,Pune,West,Home,Desk Lamp,1.0,1155.0,10.0
+ORD-1091,2026-04-03,Mumbai,West,Electronics,Wireless Mouse,1.0,760.0,20.0
+ORD-1039,2026-02-12,Mumbai,West,Stationery,Planner,2.0,401.0,15.0
+ORD-1170,2026-06-13,Pune,West,Stationery,Planner,2.0,430.0,10.0
+ORD-1116,2026-05-01,Kochi,South,Electronics,USB-C Hub,1.0,1760.0,0.0
+ORD-1172,2026-06-16,Mumbai,West,Home,Storage Box,2.0,532.0,10.0
+ORD-1157,2026-05-31,Pune,West,Home,Water Bottle,1.0,383.0,0.0
+ORD-1003,2026-01-06,Mumbai,West,Electronics,USB-C Hub,3.0,1984.0,5.0
+ORD-1177,2026-06-26,Hyderabad,South,Stationery,Desk Organizer,1.0,711.0,10.0
+ORD-1047,2026-02-23,Hyderabad,South,Stationery,Desk Organizer,1.0,749.0,10.0
+ORD-1086,2026-04-01,Hyderabad,South,Home,Desk Lamp,1.0,1119.0,15.0
+ORD-1153,2026-05-29,Chennai,South,Accessories,Phone Stand,1.0,362.0,5.0
+ORD-1083,2026-03-27,Hyderabad,South,Accessories,Backpack,2.0,1696.0,5.0
+ORD-1148,2026-05-25,Hyderabad,South,Home,Office Chair,1.0,6249.0,10.0
+ORD-1027,2026-01-30,Hyderabad,South,Accessories,Cable Organizer,3.0,198.0,0.0
+ORD-1156,2026-05-31,Bengaluru,South,Home,Desk Lamp,3.0,1150.0,15.0
+ORD-1099,2026-04-12,Pune,West,Accessories,Phone Stand,2.0,323.0,0.0
+ORD-1112,2026-04-29,Bengaluru,South,Electronics,Headphones,1.0,2649.0,10.0
+ORD-1077,,Hyderabad,South,Electronics,Wireless Mouse,1.0,843.0,5.0
+ORD-1037,2026-02-11,Hyderabad,South,Electronics,Wireless Mouse,5.0,742.0,0.0
+ORD-1165,2026-06-05,Pune,West,Electronics,Wireless Mouse,3.0,791.0,0.0
+ORD-1023,2026-01-24,Hyderabad,South,Electronics,USB-C Hub,3.0,1964.0,0.0
+ORD-1105,2026-04-20,Chennai,South,Electronics,Headphones,4.0,2586.0,20.0
+ORD-1076,2026-03-23,Hyderabad,South,Home,Water Bottle,1.0,418.0,15.0
+ORD-1147,2026-05-24,Chennai,South,Stationery,Planner,1.0,385.0,0.0
+ORD-1012,2026-01-16,Pune,West,Electronics,Headphones,1.0,2521.0,10.0
+ORD-1007,2026-01-11,Bengaluru,South,Electronics,Wireless Mouse,1.0,777.0,0.0
+ORD-1028,2026-01-30,Chennai,South,Accessories,Backpack,1.0,1884.0,10.0
+ORD-1113,2026-04-30,Pune,West,Stationery,Planner,6.0,397.0,10.0
+ORD-1005,2026-01-07,Bengaluru,South,Home,Water Bottle,3.0,422.0,10.0
+ORD-1033,2026-02-05,Bengaluru,South,Electronics,Keyboard,1.0,1384.0,0.0
+ORD-1102,2026-04-13,Chennai,South,Home,Desk Lamp,1.0,1233.0,5.0
+ORD-1129,2026-05-11,Chennai,South,Home,Storage Box,3.0,472.0,10.0
+ORD-1096,2026-04-11,Kochi,South,Electronics,Keyboard,3.0,1555.0,5.0
+ORD-1011,2026-01-15,Bengaluru,South,Home,Water Bottle,1.0,395.0,15.0
+ORD-1115,2026-05-01,Chennai,South,Stationery,Pen Set,2.0,149.0,0.0
+ORD-1134,2026-05-18,Bengaluru,South,Stationery,Planner,1.0,420.0,10.0
+ORD-1001,2026-01-02,Chennai,South,Stationery,Pen Set,1.0,146.0,10.0
+ORD-1137,2026-05-19,Bengaluru,South,Home,Office Chair,2.0,6807.0,5.0
+ORD-1071,2026-03-21,Bengaluru,South,Home,Office Chair,2.0,6639.0,5.0
+ORD-1065,2026-03-16,Mumbai,West,Electronics,Wireless Mouse,6.0,826.0,10.0
+ORD-1045,2026-02-20,Mumbai,West,Accessories,Backpack,1.0,1832.0,10.0
+ORD-1124,2026-05-07,Chennai,South,Electronics,Wireless Mouse,1.0,814.0,10.0
+ORD-1029,2026-01-30,Hyderabad,South,Accessories,Backpack,2.0,1774.0,5.0
+ORD-1041,2026-02-14,Hyderabad,South,Home,Water Bottle,2.0,391.0,5.0
+ORD-1139,2026-05-21,Kochi,South,Electronics,Headphones,5.0,2643.0,0.0
+ORD-1140,2026-05-21,Hyderabad,South,Stationery,Notebook Pack,2.0,264.0,10.0
+ORD-1026,2026-01-28,Mumbai,West,Electronics,Keyboard,2.0,1413.0,20.0
+ORD-1024,2026-01-26,Chennai,South,Accessories,Backpack,1.0,1770.0,10.0
+ORD-1145,2026-05-23,Kochi,South,Home,Desk Lamp,2.0,1175.0,0.0
+ORD-1082,2026-03-26,Hyderabad,South,Electronics,Keyboard,4.0,1419.0,20.0
+ORD-1080,2026-03-25,Bengaluru,South,Accessories,Phone Stand,3.0,377.0,5.0
+ORD-1085,2026-03-28,Chennai,South,Accessories,Backpack,1.0,1722.0,10.0
+ORD-1040,2026-02-13,Hyderabad,South,Home,Desk Lamp,1.0,1226.0,0.0
+ORD-1109,2026-04-26,Mumbai,West,Home,Storage Box,3.0,536.0,10.0
+ORD-1087,2026-04-01,Mumbai,West,Stationery,Pen Set,1.0,155.0,5.0
+ORD-1128,2026-05-10,Hyderabad,South,Electronics,Keyboard,1.0,1478.0,0.0
+ORD-1176,2026-06-25,Chennai,South,Electronics,Wireless Mouse,5.0,821.0,0.0
+ORD-1167,2026-06-11,Chennai,South,Stationery,Pen Set,1.0,159.0,10.0
+ORD-1048,2026-02-25,Chennai,South,Stationery,Desk Organizer,2.0,662.0,10.0
+ORD-1095,2026-04-11,Chennai,South,Stationery,Desk Organizer,3.0,705.0,20.0
+ORD-1138,2026-05-20,Chennai,South,Accessories,Laptop Sleeve,3.0,982.0,0.0
+ORD-1169,2026-06-13,Bengaluru,South,Electronics,Wireless Mouse,1.0,843.0,5.0
+ORD-1062,2026-03-15,Chennai,South,Accessories,Laptop Sleeve,4.0,928.0,20.0
+ORD-1074,2026-03-22,Mumbai,West,Electronics,Headphones,2.0,2614.0,5.0
+ORD-1034,2026-02-06,Chennai,South,Stationery,Notebook Pack,2.0,256.0,5.0
+ORD-1044,2026-02-20,Hyderabad,South,Stationery,Planner,3.0,,0.0
+ORD-1136,2026-05-19,Mumbai,West,Stationery,Pen Set,3.0,151.0,20.0
+ORD-1142,2026-05-22,Pune,West,Stationery,Desk Organizer,1.0,654.0,10.0
+ORD-1063,2026-03-15,Mumbai,West,Stationery,Desk Organizer,1.0,648.0,0.0
+ORD-1179,2026-06-29,Bengaluru,South,Accessories,Backpack,5.0,1783.0,15.0
+ORD-1120,2026-05-04,Hyderabad,South,Home,Desk Lamp,,1186.0,15.0
+ORD-1123,2026-05-07,Chennai,South,Electronics,Keyboard,1.0,1599.0,0.0
+ORD-1106,2026-04-24,Bengaluru,South,Home,Storage Box,2.0,470.0,20.0
+ORD-1054,2026-03-04,Pune,West,Home,Storage Box,6.0,489.0,10.0
+ORD-1006,2026-01-08,Bengaluru,South,Stationery,Notebook Pack,3.0,252.0,0.0
+ORD-1163,2026-06-04,Pune,West,Stationery,Pen Set,5.0,141.0,5.0
+ORD-1004,2026-01-07,Bengaluru,South,Electronics,USB-C Hub,2.0,2021.0,0.0
+ORD-1168,2026-06-12,Hyderabad,South,Stationery,Pen Set,2.0,151.0,20.0
+ORD-1050,2026-02-28,Kochi,South,Electronics,USB-C Hub,1.0,1783.0,10.0
+ORD-1036,2026-02-08,Bengaluru,South,Home,Office Chair,1.0,6412.0,5.0
+ORD-1081,2026-03-26,Mumbai,West,Stationery,Desk Organizer,1.0,715.0,0.0
+ORD-1078,2026-03-25,Bengaluru,South,Electronics,Wireless Mouse,3.0,775.0,0.0
+ORD-1035,2026-02-06,Hyderabad,South,Accessories,Backpack,,1668.0,0.0
+ORD-1008,2026-01-12,,South,Electronics,Keyboard,2.0,1601.0,5.0
+ORD-1111,2026-04-29,Hyderabad,South,Stationery,Notebook Pack,1.0,255.0,0.0
+ORD-1092,2026-04-06,Hyderabad,South,Electronics,Keyboard,1.0,1523.0,0.0
+ORD-1084,2026-03-27,Chennai,South,Stationery,Desk Organizer,2.0,692.0,0.0
+ORD-1159,2026-06-01,Hyderabad,South,Home,Office Chair,1.0,6116.0,20.0
+ORD-1164,2026-06-05,Chennai,South,Home,Storage Box,2.0,523.0,10.0
+ORD-1090,2026-04-02,Hyderabad,South,Home,Office Chair,2.0,6088.0,15.0
+ORD-1009,2026-01-13,Hyderabad,South,Electronics,Wireless Mouse,3.0,797.0,0.0
+ORD-1014,2026-01-17,Chennai,South,Electronics,Headphones,2.0,2521.0,15.0
+ORD-1060,2026-03-12,Bengaluru,South,Electronics,Headphones,1.0,2610.0,15.0
+ORD-1155,2026-05-30,Chennai,South,Accessories,Cable Organizer,4.0,192.0,0.0
+ORD-1132,2026-05-15,Chennai,South,Accessories,Laptop Sleeve,1.0,1013.0,15.0
+ORD-1018,2026-01-18,Mumbai,West,Stationery,Desk Organizer,1.0,685.0,10.0
+ORD-1073,2026-03-21,Hyderabad,South,Electronics,Wireless Mouse,3.0,807.0,10.0
+ORD-1161,2026-06-04,Bengaluru,South,Electronics,Keyboard,1.0,1599.0,10.0
+ORD-1135,2026-05-18,Chennai,South,Accessories,Backpack,2.0,1831.0,5.0
+ORD-1151,2026-05-26,Kochi,South,Electronics,Keyboard,2.0,1452.0,0.0
+ORD-1166,2026-06-10,Kochi,South,Electronics,USB-C Hub,2.0,1766.0,0.0
+ORD-1064,2026-03-16,Hyderabad,South,Stationery,Desk Organizer,4.0,714.0,0.0
+ORD-1055,2026-03-06,Kochi,South,Electronics,Keyboard,1.0,1532.0,10.0
+ORD-1108,2026-04-25,Bengaluru,South,Electronics,Keyboard,1.0,1428.0,5.0
+ORD-1051,2026-02-28,Bengaluru,South,Stationery,Notebook Pack,4.0,242.0,15.0
+ORD-1178,2026-06-27,Bengaluru,South,Accessories,Backpack,3.0,1770.0,0.0
+ORD-1059,2026-03-09,,South,Stationery,Notebook Pack,4.0,233.0,0.0
+ORD-1049,2026-02-26,Hyderabad,South,Home,Water Bottle,2.0,418.0,10.0
+ORD-1089,2026-04-02,Pune,West,Home,Storage Box,4.0,506.0,
+ORD-1022,2026-01-24,Chennai,South,Stationery,,2.0,375.0,10.0
+ORD-1058,2026-03-09,Kochi,South,Accessories,Phone Stand,4.0,337.0,0.0
+ORD-1175,2026-06-25,Mumbai,West,Accessories,Backpack,1.0,1847.0,0.0
+ORD-1130,2026-05-14,Mumbai,West,Electronics,Wireless Mouse,2.0,849.0,0.0
+ORD-1038,2026-02-11,Pune,West,Accessories,Backpack,4.0,1937.0,15.0
+ORD-1158,2026-05-31,Kochi,South,Accessories,Cable Organizer,2.0,208.0,10.0
+ORD-1171,2026-06-16,Bengaluru,South,Accessories,Cable Organizer,2.0,207.0,10.0
+ORD-1002,2026-01-05,Bengaluru,South,Electronics,Keyboard,5.0,1407.0,15.0
+ORD-1053,2026-03-02,Kochi,South,Home,Water Bottle,2.0,414.0,20.0
+ORD-1150,2026-05-26,Mumbai,West,Accessories,Phone Stand,6.0,371.0,20.0
+ORD-1131,2026-05-15,Chennai,South,Stationery,Notebook Pack,6.0,249.0,0.0
+ORD-1152,2026-05-28,Pune,West,Stationery,Notebook Pack,1.0,,0.0
+ORD-1104,2026-04-15,Bengaluru,South,Stationery,Notebook Pack,1.0,245.0,15.0
+ORD-1100,2026-04-13,Chennai,South,Stationery,Desk Organizer,3.0,723.0,15.0
+ORD-1117,2026-05-02,Hyderabad,South,Home,Office Chair,1.0,6032.0,5.0
+ORD-1088,2026-04-01,Hyderabad,South,Home,Water Bottle,2.0,421.0,15.0
+ORD-1075,2026-03-22,Mumbai,West,Home,Office Chair,4.0,6745.0,20.0
+ORD-1122,2026-05-07,Bengaluru,South,Accessories,Laptop Sleeve,2.0,927.0,10.0
+ORD-1026,2026-01-28,Mumbai,West,Electronics,Keyboard,2.0,1413.0,20.0
+ORD-1021,2026-01-23,Mumbai,West,Accessories,Phone Stand,1.0,329.0,0.0
+ORD-1072,2026-03-21,Chennai,South,Home,Water Bottle,1.0,387.0,5.0
+ORD-1107,2026-04-25,Mumbai,West,Stationery,,2.0,266.0,0.0
+ORD-1015,2026-01-17,Pune,West,Electronics,Wireless Mouse,2.0,772.0,0.0
+ORD-1093,2026-04-09,Mumbai,West,Stationery,Planner,2.0,407.0,15.0
+ORD-1180,2026-06-30,Bengaluru,South,Home,Water Bottle,3.0,398.0,5.0
+ORD-1103,2026-04-13,Pune,West,Stationery,Pen Set,1.0,157.0,15.0
